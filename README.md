@@ -1,7 +1,6 @@
 # 👋 ¡Hi! I'm Fer
 
-💻 **Desarrollador Web Front End** apasionado por crear aplicaciones modernas, escalables y con buenas prácticas de código.  
-🚀 Siempre aprendiendo nuevas tecnologías y mejorando proyectos.
+💻 **Desarrollador Web Front End** apasionado por crear aplicaciones modernas, escalables y con buenas prácticas de código. 🚀 Siempre aprendiendo nuevas tecnologías y mejorando proyectos.
 
 ---
 
@@ -15,7 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
@@ -26,8 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![FerDeveloperJS's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerDeveloperJS&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerDeveloperJS&layout=compact&theme=radical)
+![FerDeveloperJS's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerDeveloperJS&show_icons=true&theme=radical)
 
 ---
 
